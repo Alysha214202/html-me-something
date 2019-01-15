@@ -1,0 +1,73 @@
+.header{
+    background-color: #fafafa;
+    background-image: url(file:///Users/Alysha/Documents/lc101/html-me-something/dino-reichmuth-115620-unsplashcopy.jpg);
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 60px;
+}
+
+body {
+    background-color: #fafafa;
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  h1 {
+    color: #fafafa;
+    font-size: 5em;
+    padding-top: 100px;
+    width: 100%;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+  }
+
+  h2 {
+    border: 1px dotted black;
+    color: #525c65;
+    font-size: 1.5em;
+    line-height: 48px;
+    padding: 20px 30px;
+    margin: 30px 20px;
+    text-align: center;
+  }
+
+  p {
+    color: #525c65;
+    line-height: 1.3em;
+    text-align: left;
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 18px;
+    margin-top: 60px;
+    padding: 10px 20px;
+  }
+
+  #main {
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    width: 800px;
+    height: 1000px;
+    overflow: visible;
+  }
+  
+  .byline {
+    border-bottom: 1px solid LightGrey;
+    border-top: 1px solid LightGrey;
+    color: DarkGrey;
+    font-size: 14px;
+    font-weight: 200;
+  }
+
+  .footer{
+    background-color: #fafafa;
+    background-image: url(file:///Users/Alysha/Documents/lc101/html-me-something/dino-reichmuth-115620-unsplashcopy.jpg);
+    background-position: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 60px;
+    color: #fafafa;
+    font-size: 2em;
+    font-weight: bold;
+}
